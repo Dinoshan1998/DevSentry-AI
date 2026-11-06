@@ -1,0 +1,15 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.38
+pydantic==2.10.6
+email-validator==2.2.0
+requests==2.32.3
+python-dotenv==1.0.1
+pytest==8.3.4
+httpx==0.28.1
+langgraph==0.2.74
+langchain-core==0.3.40
+PyJWT==2.10.1
+psycopg[binary]==3.2.5
+pgvector==0.3.6
+mcp==1.2.0

@@ -1,0 +1,5 @@
+# Optional integrations; install only when you need them.
+langfuse==2.59.7
+ragas==0.2.13
+datasets==3.3.2
+sentence-transformers==3.4.1
